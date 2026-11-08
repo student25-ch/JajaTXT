@@ -1,0 +1,1 @@
+A pure C, ultra-fast big TXT reader. No dependencies, built for absolute control.
